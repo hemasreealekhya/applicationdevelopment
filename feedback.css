@@ -1,0 +1,27 @@
+.container{
+    margin: auto;
+    width: 200px;
+    height: 600px;
+    box-sizing: border-box;
+}
+#suggestion_box{
+text-align: center;
+}
+.text{
+   border: 1px slategray;
+   box-sizing: border-box;
+   background: transparent;
+   padding-right: 20px;
+}
+.image{
+    justify-items: center;
+}
+fieldset{
+    border-radius: 100px 250px;
+}
+
+form{
+    background-color: white;
+    height: 600px;
+
+}

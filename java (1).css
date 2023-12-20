@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap'); 
+
+.heading00 {
+    color: #183b56;
+    font-size: 44px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.paragraph {
+    color: #7b8794;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: 500;
+
+}
+
+.popstyle{
+    background-color: #ff9d00;
+}
+
+.heading2 {
+    color: black;
+    font-size: 25px;
+    font-family: roboto;
+
+}
+
+.paragraph2 {
+    color: #7b8794;
+    font-family: roboto;
+    font-size: 18px;
+}.heading {
+    color: #183b56;
+    font-size: 28px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.card {
+    background-color: #868793;
+    height: auto;
+    width: auto;
+    background-size: cover;
+    padding-top: 40px;
+    margin-bottom: 25px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.headong1 {
+    color: #141212;
+    font-weight: 600;
+    margin: 20px;
+    text-align: left;
+
+
+}
+.button2{
+    text-align: left;
+}
+
+.headong2 {
+    color: #141212;
+    font-weight: 600;
+    margin: 20px;
+    text-align: left;
+
+}
+.headong {
+    color: #100d0d;
+    font-weight: 400;
+    margin: 20px;
+    font-size: 20px;
+    padding-top: 0px;
+}
+
+.product-card-button {
+    color: #ff9d00;
+    background-color: #fcfafa;
+    font-family: Roboto;
+    font-size: 16px;
+    width: 134px;
+    height: 48px;
+    border-width: 0;
+    border-radius: 100px;
+    text-align: center;
+    margin: 20px;
+}
+
+.list-item {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 16px;
+    list-style-type: none;
+}
+
+.sapa {
+    font-weight: bold;
+}
+
+.section {
+    color: #ff9f00;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px;
+}
+.bg-container {
+    height:100vh;
+    width: 203vh;
+    background-size: cover;
+
+}
+.popbg{
+  background-color: #9da3a9;
+  color: white;
+}
+.poptxt{
+    color: white;
+    text-align: left;
+}
+
